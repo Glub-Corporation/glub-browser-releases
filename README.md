@@ -66,8 +66,8 @@ between Workspaces, then return to browsing without rebuilding your context.
 Start typing on the opening search page, or press <kbd>Ctrl</kbd> + <kbd>L</kbd> from
 anywhere to enter a URL or search.
 
-Press <kbd>i</kbd> when a page input needs normal typing. Press <kbd>Esc</kbd> to return
-the keyboard to Glub.
+Selecting a page field automatically gives typing to the page. Press <kbd>Esc</kbd> to
+return the keyboard to Glub.
 
 ### 2. Follow a link without losing your place
 
@@ -115,7 +115,7 @@ route with <kbd>Space</kbd>, and reopen a page with <kbd>Enter</kbd>.
 |---|---|
 | <kbd>Ctrl</kbd> + <kbd>?</kbd> | Show controls for the current view |
 | <kbd>Ctrl</kbd> + <kbd>L</kbd> | Search or enter a URL |
-| <kbd>i</kbd> / <kbd>Esc</kbd> | Give typing to the page / return to Glub |
+| <kbd>Esc</kbd> | Return from page input to Glub controls |
 | <kbd>h</kbd> / <kbd>l</kbd> | Back / forward |
 | <kbd>j</kbd> / <kbd>k</kbd> | Scroll down / up |
 | <kbd>f</kbd> / <kbd>F</kbd> | Label page actions / links |
@@ -123,7 +123,7 @@ route with <kbd>Space</kbd>, and reopen a page with <kbd>Enter</kbd>.
 | <kbd>W</kbd> | Cycle Browsing, Window Overview, and Workspaces |
 | <kbd>T</kbd> | Open or close Open Page Control |
 | <kbd>Ctrl</kbd> + <kbd>H</kbd> | Open journey history |
-| <kbd>Ctrl</kbd> + <kbd>J</kbd> | Open Downloads |
+| <kbd>D</kbd> | Open Downloads |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd> | Enter or leave private mode |
 
 Glub's bottom command bar changes with the current view, so you do not need to memorize
